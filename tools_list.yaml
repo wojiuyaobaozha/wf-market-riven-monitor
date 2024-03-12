@@ -1,0 +1,49 @@
+tools_list:
+  - 
+
+keyword_list:
+ - critical_damage,multishot,toxin_damage&negative_stats=has
+ - critical_chance,critical_damage,multishot&negative_stats=has
+ - critical_chance,critical_damage,base_damage_/_melee_damage&negative_stats=has
+ - critical_damage,multishot,base_damage_/_melee_damage&negative_stats=has
+ - critical_chance,multishot,base_damage_/_melee_damage&negative_stats=has
+ - critical_damage,multishot&negative_stats=zoom
+ - multishot,base_damage_/_melee_damage&negative_stats=zoom
+ - critical_damage,multishot&negative_stats=recoil
+ - critical_damage,multishot&negative_stats=impact_damage
+ - critical_damage,multishot&negative_stats=puncture_damage
+ - critical_chance,multishot&negative_stats=impact_damage
+ - critical_chance,multishot&negative_stats=puncture_damage
+ - critical_chance,multishot&negative_stats=recoil
+ - critical_chance,multishot&negative_stats=zoom
+ - multishot,base_damage_/_melee_damage&negative_stats=puncture_damage
+ - multishot,base_damage_/_melee_damage&negative_stats=impact_damage
+ - multishot,base_damage_/_melee_damage&negative_stats=recoil
+ - multishot,base_damage_/_melee_damage&negative_stats=zoom
+ - multishot,toxin_damage&negative_stats=puncture_damage
+ - multishot,toxin_damage&negative_stats=impact_damage
+ - multishot,toxin_damage&negative_stats=recoil
+ - multishot,toxin_damage&negative_stats=zoom
+ - multishot,fire_rate_/_attack_speed&negative_stats=puncture_damage
+ - multishot,fire_rate_/_attack_speed&negative_stats=impact_damage
+ - multishot,fire_rate_/_attack_speed&negative_stats=recoil
+ - multishot,fire_rate_/_attack_speed&negative_stats=zoom
+ - fire_rate_/_attack_speed,range,critical_damage&negative_stats=has
+ - critical_damage,critical_chance&negative_stats=puncture_damage
+ - critical_damage,critical_chance&negative_stats=impact_damage
+ - critical_damage,critical_chance&negative_stats=recoil
+ - critical_damage,critical_chance&negative_stats=zoom
+ - critical_damage,critical_chance&negative_stats=critical_chance_on_slide_attack
+ - critical_damage,critical_chance&negative_stats=finisher_damage
+ - critical_damage,critical_chance&negative_stats=channeling_efficiency
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=channeling_efficiency
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=critical_chance_on_slide_attack
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=finisher_damage
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=puncture_damage
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=impact_damage
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=recoil
+ - critical_damage,cold_damage,fire_rate_/_attack_speed&negative_stats=zoom
+ - status_chance,status_duration,multishot&negative_stats=has
+
+user_list:
+ - 

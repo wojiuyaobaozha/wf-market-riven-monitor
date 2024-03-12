@@ -1,0 +1,28 @@
+all_config:
+ github_token: xxxxxx
+ dingding:
+   - enable: 1
+   - webhook: xxxx
+   - secretKey: xxxx
+   - app_name: dingding
+ feishu:
+   - enable: 0
+   - webhook: 123
+   - app_name: feishu
+ server:
+   - enable: 0
+   - sckey: 123123
+   - app_name: server
+ tgbot:
+   - enable: 0
+   - token: 123
+   - group_id: 123
+   - app_name: tgbot
+ pushplus:
+   - enable: 0
+   - token: 123456
+   - app_name: pushplus
+ translate:
+  - enable: 0
+ black_user:
+   - 
