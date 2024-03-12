@@ -6,11 +6,14 @@
 
 # 建议使用screen命令运行在自己的linux vps后台上，就可以愉快的接收了
 linux服务器创建一个screen，在新窗口运行本项目, 成功后直接叉掉该窗口, 项目就会在后台一直运行了
-screen -S warframe			
+
+`screen -S warframe`	
 #查看创建的screen
-screen -ls 		
+
+`screen -ls`
 #连接warframe后台screen，如果存在的话
-screen -r warframe
+
+`screen -r warframe`
 
 
 # 使用帮助
